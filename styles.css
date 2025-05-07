@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.formulario input {
+  margin: 5px;
+  padding: 8px;
+  width: calc(100% / 6 - 10px);
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+}
+
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.tabela th, .tabela td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.tabela th {
+  background-color: #f2f2f2;
+}
