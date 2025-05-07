@@ -9,8 +9,7 @@ Instruções para executar
  1. Clone o repositório:
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
-
+git clone https://github.com/juliafdutra/Sistema-de-alunos.git
  Premissas
 Cada aluno possui exatamente 5 notas (de 0 a 10).
 
